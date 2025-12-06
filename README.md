@@ -1,7 +1,7 @@
 # ¡Ey! Soy Fran Rodríguez 👨‍💻⚔️
 
 **Backend · Mobile · Ex-COBOL warrior reconvertido en Spring Boot & Kotlin**  
-Guadix, Granada | fran@devbyfran.com | [LinkedIn](tu-linkedin) | Abierto a remoto/Granada
+Guadix, Granada | franrodriguezdev@gmail.com | [LinkedIn](https://www.linkedin.com/in/franrodriguezdev/) | Abierto a remoto/Granada
 
 > 30 años dando caña a sistemas críticos + reconversión 100% actualizada = fiabilidad de tanque + velocidad de startup
 
@@ -31,7 +31,7 @@ Guadix, Granada | fran@devbyfran.com | [LinkedIn](tu-linkedin) | Abierto a remot
 ![](https://github-readme-stats.vercel.app/api?username=franjrodriguez&show_icons=true&theme=tokyonight&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=franjrodriguez&layout=compact&theme=tokyonight&hide_border=true)
 
-**¿Hablamos?** → fran@devbyfran.com  
+**¿Hablamos?** → franrodriguezdev@gmail.com  
 Buscando mi próxima aventura como Backend / Android Developer. ¡Dale al follow y al mail!
 
 ---
