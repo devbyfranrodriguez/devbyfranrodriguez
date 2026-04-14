@@ -45,9 +45,9 @@ Guadix, Granada | franrodriguezdev@gmail.com | [LinkedIn](https://www.linkedin.c
 
 ### Stats (porque a los recruiters les flipan)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=franjrodriguez&show_icons=true&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=franjrodriguez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franjrodriguez&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franjrodriguez&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
 ---
 
