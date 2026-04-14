@@ -31,7 +31,7 @@ Guadix, Granada | franrodriguezdev@gmail.com | [LinkedIn](https://www.linkedin.c
 | **AgilTeam Manager (TFG)** | Java · JavaFX · Spring Boot · PostgreSQL | Asignación inteligente de tareas por competencias + enfoque ágil |
 | Pokédex App               | Kotlin + Firebase + REST      | Consumiendo API real + clean arch     |
 | Gincana GPS Crash Bandicoot | Geolocalización Android     | Retos en mapa + puntuación en tiempo real |
-| ERP Frigoríficos Delfín   | COBOL + Oracle + UNIX 24x7    | Lo hice solo para 20 sedes (bestia)   |
+| ERP Frigoríficos Delfín   | COBOL + Informix + UNIX 24x7 | Mantengo y Desarrollo para todos los departamentos |
 | Gestión Clínica Hospital  | WinDev + HFSQL + imágenes eco | Integración médica real               |
 
 ---
