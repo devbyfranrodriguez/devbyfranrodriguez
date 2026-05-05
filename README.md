@@ -12,7 +12,7 @@ Guadix, Granada | [franrodriguezdev@gmail.com](mailto:franrodriguezdev@gmail.com
 |---|---|
 | ⭐ **Automatización N8N + IA** | n8n · Agentes IA · Ollama · Groq · Claude AI · Google Ads API · Docker |
 | ☕ **Java Backend** | Spring Boot · APIs REST · PostgreSQL · MongoDB · Docker · VPS |
-| 📱 **Android** | Kotlin · Firebase · Retrofit · REST APIs |
+| 📱 **Android** | Java (Kotlin en proceso) · Firebase · Retrofit · REST APIs |
 | 🌐 **WordPress** | Elementor · WooCommerce · SEO (Rank Math) · clientes reales |
 
 ---
