@@ -65,7 +65,7 @@ Guadix, Granada | [franrodriguezdev@gmail.com](mailto:franrodriguezdev@gmail.com
 
 ---
 
-**¿Hablamos?** → [franrodriguezdev@gmail.com](mailto:franrodriguezdev@gmail.com) | [devbyfran.com](https://devbyfran.com)  
+**¿Hablamos?** → [fran@devbyfran.com](mailto:fran@devbyfran.com) | [devbyfran.com](https://devbyfran.com)  
 Buscando mi próxima aventura en automatización con IA o backend Java. ¡Dale al follow!
 
 ---
